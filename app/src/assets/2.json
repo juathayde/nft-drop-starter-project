@@ -1,0 +1,19 @@
+{
+    "name": "FT",
+    "symbol": "",
+    "image": "2.png",
+    "properties": {
+      "files": [
+        {
+          "uri": "2.png",
+          "type": "image/png"
+        }
+      ],
+      "creators": [
+        {
+          "address": "A4c1tmuN8SaXgZS3mJSrBqJxhxxZC8cQsr8xD8pBvsXC",
+          "share": 100
+        }
+      ]
+    }
+  }
